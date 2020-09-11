@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 4ac3c7fe1800e234fbcad924cc859639
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3705be0f0fbff3445a9783e11c520dab
+  - enabled: 1
+    path: Assets/Scenes/Online.unity
+    guid: ca3a7e401a5d14749b1c52cfbbb8d0a3
+  - enabled: 1
+    path: Assets/Scenes/PvP_PvB.unity
+    guid: da29a60083d3dc14bb0c07621de2471b
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f798ff6d68c3c6843b1e06c8bf489145,
+      type: 2}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 021280a974c30984f8f8e6bfd67f1f8e
+  m_SerializeEntries:
+  - m_GUID: 2bf3587ce71dc9043bd823a4d57927bb
+    m_Address: setting
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e7801fe42fc1e444bc774772cc65ec4
+    m_Address: online_mode_select
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34db344f307bbc74a9aeff7254358102
+    m_Address: select_game
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b704de48664e24428f4efe4a6f9d98c
+    m_Address: input_name
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4914e520e7d9ea34d812c1a2e0eefd8e
+    m_Address: online_home_select
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ab08b66b06cdc24aab901f9f593accf
+    m_Address: start
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 647d3bba9c2b04e4288d68929fbbb0a4
+    m_Address: player_with_bot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 952753e41445023459e78338aaa0026e
+    m_Address: online_home
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cec5cad6908d85a4fb1a1df0cd0bcbe3
+    m_Address: UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3747764c90c0e9b4eb3fb2e7a85b61cd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c6db6a004c2412144b02be6cb8db788f, type: 2}
+    - {fileID: 11400000, guid: e0551d25747bf104c870c6c4a2e4d0ca, type: 2}
